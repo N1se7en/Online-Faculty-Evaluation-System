@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.center-div{
+    position: abosolute;
+    top: 70%;
+    left: 50%;
+    
+
+}
+
+.heading{
+    width: 100%;
+    line-height: 80px;
+    background: -webkit-linear-gradient(left, #0072ff, #c51120) ;
+}
+
+body {
+    background-color: #eee;
+    margin: 0px;
+}
+
+.nav-link:hover {
+    background-color: #525252 !important
+}
+
+.nav-link .fa {
+    transition: all 1s
+}
+
+.nav-link:hover .fa {
+    transform: rotate(360deg)
+}
+
+
+
+

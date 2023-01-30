@@ -11,7 +11,7 @@ about themselves and improve their online educating methods.
 ## Setup Instructions
 1. Use command prompt for clonning the repository. (git clone https://github.com/N1se7en/Online-Faculty-Evaluation-System)
 2. Run Xampp. Turn on Apache and MySQL and import the feval.sql.
-3. Copy and paste the feval into htdocs folder found at xampp install directory.
+3. Copy and paste all the files to htdocs folder found at xampp install directory.
 4. Run the website in the browser by typing feval after localhost
 
 ## Preview
